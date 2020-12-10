@@ -12,3 +12,6 @@
 - Maximum DNL observed is 0.056 LSB and INL is -0.041 LSB
 - Area estimation : 180 µm×100 µm
 
+#### Software Used: Cadence Virtuoso
+#### Time Frame: Mar 2019
+#### Course : Mixed Signal IC Design ( EE726 )
